@@ -15,7 +15,7 @@ Chainer v4.0 implementation of "Image Style Transfer Using Convolutional Neural 
 `python generate.py -i images/tokinokane600.jpg -s styles-all/style-r.png -o /home/odaka/out-test -g 0`
 
 ## Parameters
-See source
+See [source](https://github.com/TetsuyaOdaka/style-transfer-gatys/blob/master/generate.py)
 
 # Acknowlegement
 very appreciate the authors to which I referred.
