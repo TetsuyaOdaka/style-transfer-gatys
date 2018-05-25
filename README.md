@@ -28,5 +28,5 @@ Chainer v4.0 implementation of "Image Style Transfer Using Convolutional Neural 
 See [source](https://github.com/TetsuyaOdaka/style-transfer-gatys/blob/master/generate.py)
 
 # Acknowlegement
-special thanks to the authors to which I referred.
+thanks to the authors to which I referred.
 - chainer-gogh(https://github.com/pfnet-research/chainer-gogh) 
