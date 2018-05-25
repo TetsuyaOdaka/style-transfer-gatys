@@ -5,8 +5,11 @@ Chainer v4.0 implementation of "Image Style Transfer Using Convolutional Neural 
  
  ## results
 <img src="https://farm1.staticflickr.com/886/27469269047_17ef5222d0_b.jpg" width="300" alt="Hour Bell at Kawagoe , Japan"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" width="500" alt="Starry  Night"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" width="500" alt="Starry Night by Van Gogh"> 
 <img src="https://farm1.staticflickr.com/967/42291281042_3b5b2d0c1c_z.jpg" width="300" alt="Hour Bell at Kawagoe , Japan">
+ 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Paul_Cezanne_Gardanne.jpg" width="500" alt="Gardanne by Paul Cezanne">
+ <img src="https://farm1.staticflickr.com/978/42339298931_6ab769df7d_z.jpg" width="300" alt="Hour Bell at Kawagoe , Japan">
 
 # Usage 
 ## Environment
