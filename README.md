@@ -20,7 +20,7 @@ Chainer v4.0 implementation of "Image Style Transfer Using Convolutional Neural 
 - cuDNN6.0+
 
 ## Usage
-`python generate.py -i images/tokinokane600.jpg -s styles-all/style-r.png -o /home/odaka/out-test -g 0` 
+`python generate.py -i images/tokinokane600.jpg -s [dir_path]/style.png -o [dir_path for output] -g 0` 
  
  **Shape of images must be square.**
 
