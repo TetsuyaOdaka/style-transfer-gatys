@@ -3,7 +3,10 @@ Chainer v4.0 implementation of "Image Style Transfer Using Convolutional Neural 
 
 [Image Style Transfer Using Convolutional Neural Networks. Gatys, L.A. et al(2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) 
  
+ ## results
 <img src="https://farm1.staticflickr.com/886/27469269047_17ef5222d0_b.jpg" width=400 alt="Hour Bell at Kawagoe , Japan">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg width=400 alt="Starry Night">
+<img src="https://farm1.staticflickr.com/967/42291281042_3b5b2d0c1c_z.jpg width=400 alt="Hour Bell at Kawagoe , Japan">
 
 # Usage 
 ## Environment
