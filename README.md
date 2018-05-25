@@ -3,6 +3,8 @@ Chainer v4.0 implementation of "Image Style Transfer Using Convolutional Neural 
 
 [Image Style Transfer Using Convolutional Neural Networks. Gatys, L.A. et al(2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) 
  
+<img src="https://farm1.staticflickr.com/886/27469269047_17ef5222d0_b.jpg" width=400 alt="Hour Bell at Kawagoe , Japan">
+
 # Usage 
 ## Environment
 - python3.5+
@@ -12,7 +14,9 @@ Chainer v4.0 implementation of "Image Style Transfer Using Convolutional Neural 
 - cuDNN6.0
 
 ## Usage
-`python generate.py -i images/tokinokane600.jpg -s styles-all/style-r.png -o /home/odaka/out-test -g 0`
+`python generate.py -i images/tokinokane600.jpg -s styles-all/style-r.png -o /home/odaka/out-test -g 0` 
+ 
+ **Shape of images must be square.**
 
 ## Parameters
 See [source](https://github.com/TetsuyaOdaka/style-transfer-gatys/blob/master/generate.py)
