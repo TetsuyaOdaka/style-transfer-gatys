@@ -1,7 +1,10 @@
-# Neural Style Transfer
-Chainer v4.0 implementation of "Image Style Transfer Using Convolutional Neural Networks(2016)" by Gatys et al.
+# Neural Style Transfer by Gatys et al. Chainer 4.0 
+[Chainer v4.0](https://github.com/chainer/chainer) implementation of "Image Style Transfer Using Convolutional Neural Networks(2016)" by Gatys et al.
 
 [Image Style Transfer Using Convolutional Neural Networks. Gatys, L.A. et al(2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) 
+ 
+ The purpose is further research of Gatsy's article. 
+ So code is very simple to modify and for that reason, the sophisticated functions of chainer(i.e. updater, trainer) are not used.
  
  ## Results
 <img src="https://farm1.staticflickr.com/886/27469269047_17ef5222d0_b.jpg" width="300" alt="Hour Bell at Kawagoe , Japan"> 
