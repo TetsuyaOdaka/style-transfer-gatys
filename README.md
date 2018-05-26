@@ -30,7 +30,8 @@
  <img src="https://farm1.staticflickr.com/978/42339298931_6ab769df7d_z.jpg" width="300" alt="Hour Bell at Kawagoe , Japan">
 
  ## 
- GPU: GeForce GTX1080i
+ GPU: GeForce GTX1080i 
+ 
  Elapsed Time: about 12min for generating 600px squared image. 
  
 
