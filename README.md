@@ -34,6 +34,7 @@
  
  Elapsed Time: about 12min for generating 600px squared image. 
  
+ 
 
 # Usage 
 ## Environment
@@ -50,6 +51,7 @@
 
 ## Parameters
 See [source](https://github.com/TetsuyaOdaka/style-transfer-gatys/blob/master/generate.py)
+
 
 # Acknowlegement
 thanks to the authors to which I referred.
