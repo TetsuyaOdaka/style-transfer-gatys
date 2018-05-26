@@ -12,8 +12,9 @@
  hourly bell at Kawagoe city Japan. 
  
 <img src="https://farm1.staticflickr.com/886/27469269047_17ef5222d0_b.jpg" width="300" alt="Hour Bell at Kawagoe , Japan"> 
+
  ### Style 1
- "Starry Night" by Van Gogh 
+ "Starry Night" by Van Gogh.
  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" width="500" alt="Starry Night by Van Gogh"> 
 
