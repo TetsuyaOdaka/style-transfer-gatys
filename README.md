@@ -8,11 +8,19 @@
  So code is very simple to modify and for that reason, the sophisticated functions of chainer(i.e. updater, trainer) are not used.
  
  ## Results
+ ### Original Image
+ hourly bell at Kawagoe city Japan.
 <img src="https://farm1.staticflickr.com/886/27469269047_17ef5222d0_b.jpg" width="300" alt="Hour Bell at Kawagoe , Japan"> 
+ ### Style 1
+ "Starry Night" by Van Gogh
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" width="500" alt="Starry Night by Van Gogh"> 
+ ### Result 1
 <img src="https://farm1.staticflickr.com/967/42291281042_3b5b2d0c1c_z.jpg" width="300" alt="Hour Bell at Kawagoe , Japan">
  
+ ### Style 2
+ "Gardanne" by Paul Cezanne.
  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Paul_Cezanne_Gardanne.jpg" width="500" alt="Gardanne by Paul Cezanne">
+ ### Result 2
  <img src="https://farm1.staticflickr.com/978/42339298931_6ab769df7d_z.jpg" width="300" alt="Hour Bell at Kawagoe , Japan">
 
 # Usage 
@@ -23,7 +31,7 @@
 - cuda8.0+
 - cuDNN6.0+
 
-## Usage
+## Generate Transferred Image 
 `python generate.py -i images/tokinokane600.jpg -s [dir_path]/style.png -o [dir_path for output] -g 0` 
  
  **Shape of images must be square.**
