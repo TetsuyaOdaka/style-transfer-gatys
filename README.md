@@ -3,7 +3,8 @@
 
 [Image Style Transfer Using Convolutional Neural Networks. Gatys, L.A. et al(2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) 
  
- The purpose is further research of Gatsy's article. 
+ The purpose is further research of Gatsy's article.
+ 
  So code is very simple to modify and for that reason, the sophisticated functions of chainer(i.e. updater, trainer) are not used.
  
  ## Results
