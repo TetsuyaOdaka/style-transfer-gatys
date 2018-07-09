@@ -5,7 +5,7 @@
 
 
  The purpose is further research of Gatsy's article. 
- So code is very simple to modify and for that reason, the sophisticated functions of chainer(i.e. updater, trainer) are not used.
+ So source code keeps very simple for modification and for that reason, the sophisticated functions of chainer(i.e. updater, trainer) are not used.
  
  ## Results
  ### Original Image
